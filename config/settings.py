@@ -153,5 +153,5 @@ MAILERS = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    'https://html-frontend-zeta.vercel.app/',
+    "https://html-frontend-zeta.vercel.app",
 ]
