@@ -151,3 +151,7 @@ MAILERS = {
         'BACKEND': 'django.core.mail.backends.console.EmailBackend',
     },
 }
+
+CORS_ALLOWED_ORIGINS = [
+    'https://html-frontend-zeta.vercel.app/',
+]
